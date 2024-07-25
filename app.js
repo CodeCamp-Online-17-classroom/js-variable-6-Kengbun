@@ -1,1 +1,2 @@
-// write code here
+let BRAND_NAME = 'I am a hero'
+// ได้ นิยมใช้ในกรณี ที่ตั้งตัวแปรที่ มีค่าคงที่ 
